@@ -357,6 +357,8 @@
     margin: 50px 0;
     font-size: 55px;
     line-height: 53px;
+    transform: none;
+    white-space: normal;
   }
   .what-box:first-child {
     justify-content: left;
