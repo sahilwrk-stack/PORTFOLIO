@@ -170,7 +170,7 @@
 
 .landing-intro {
   position: absolute;
-  z-index: 20;
+  z-index: 30;
   top: 12%;
   left: 0;
   pointer-events: auto;
@@ -203,7 +203,7 @@
   transform: translateX(50%);
   bottom: 40px;
   top: inherit;
-  z-index: 9;
+  z-index: 30;
 }
 
 .landing-info h3 {
@@ -346,7 +346,7 @@ h2.landing-info-h2 {
   .landing-info {
     bottom: auto;
     top: 51%;
-    z-index: inherit;
+    z-index: 30;
     text-align: left;
     transform: translate(0%, -50%);
     right: auto;
@@ -365,7 +365,7 @@ h2.landing-info-h2 {
   .landing-info {
     bottom: auto;
     top: 51%;
-    z-index: inherit;
+    z-index: 30;
     text-align: left;
     transform: translate(0%, -50%);
     right: auto;
