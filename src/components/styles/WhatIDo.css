@@ -53,14 +53,14 @@
 
 .what-noTouch:hover,
 .what-content-active {
-  min-height: 52%;
-  padding: 40px 50px;
+  min-height: 56%;
+  padding: 35px 50px;
 }
 
 .what-noTouch:hover ~ .what-content,
 .what-box-in:hover .what-noTouch:not(:hover),
 .what-content.what-sibling {
-  min-height: 24%;
+  min-height: 22%;
   padding: 15px 40px;
 }
 .what-content h3 {
