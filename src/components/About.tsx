@@ -5,9 +5,17 @@ const About = () => {
     <div className="about-section" id="about">
       <div className="about-me">
         <h3 className="title">About Me</h3>
-        <p className="para">
-          Sahil Thakur is a Data Analysis and Data Analyst focused on building intelligent systems using Python and machine learning. He develops data-driven platforms, predictive models, and analytical dashboards to solve real-world problems, particularly in agriculture and business analytics.
-        </p>
+        <div className="about-paras">
+          <p className="para">
+            A data analyst and AI developer passionate about turning complex data into meaningful insights.
+          </p>
+          <p className="para">
+            Experienced in Python, machine learning, and data analytics to build predictive models, intelligent systems, and interactive dashboards that support data-driven decision making.
+          </p>
+          <p className="para">
+            Focused on solving real-world challenges through innovative data science and AI-powered solutions.
+          </p>
+        </div>
       </div>
     </div>
   );

@@ -15,6 +15,12 @@
   width: 500px;
   max-width: calc(100% - 15px);
 }
+
+.about-paras {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
 .about-me h3 {
   font-size: 25px;
   text-transform: uppercase;
